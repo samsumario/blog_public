@@ -79,6 +79,7 @@ def main(search_word_list, html_file, template_file):
         
         save_html_data(html_file, soup)
 
+#command example
 #python generate_verb_table_html.py ./result/verb_list.txt ./result/verb_list.html
 if __name__ == '__main__':
     data_file = sys.argv[1] #単語帳のファイル

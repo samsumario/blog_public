@@ -2,7 +2,7 @@
 
 ## コード説明 / Usage
 
-ブログ参照[Sumario スペイン語の単語出現頻度リストを作る](https://pages.github.com/)
+ブログ参照[Sumario スペイン語の単語出現頻度リストを作る](https://sumariojp.com/2021/07/28/576/)
 
 ## Requirement
 
@@ -14,7 +14,7 @@
 ## Author
  
 * 作成者 samsumario
-* 所属 Sumario
+* ブログ Sumario
 * E-mail sam_s@sumariojp.com
  
 ## License

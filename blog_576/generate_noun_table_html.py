@@ -41,16 +41,15 @@ def main(search_word_list, html_file, template_file):
         th = soup.new_tag("th")
         th.string = "Orden"
 
-        td_header_list = ["Palabra","Imagen1","Imagen2","Imagen3"]
-        for td_txt in td_header_list:
-            td = soup.new_tag("td")
-            td.string = td_txt
-        
         #append table elements
         soup.find("table").append(tr)
         tr.append(th)
-        tr.append(td)
-        
+
+        td_header_list = ["Palabra","Imagen1","Imagen2","Imagen3"]
+        for td_txt in td_header_list:
+            td = soup.new_tag("td")
+            td.string = td_txt     
+            tr.append(td)
 
         #table content
         for data in search_word_list:
@@ -80,6 +79,7 @@ def main(search_word_list, html_file, template_file):
         
         save_html_data(html_file, soup)
 
+#command example
 #python generate_noun_table_html.py ./result/noun_list.txt ./result/noun_list.html
 if __name__ == '__main__':
     data_file = sys.argv[1] #単語帳のファイル
