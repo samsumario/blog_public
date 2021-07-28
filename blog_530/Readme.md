@@ -2,7 +2,7 @@
 
 ## コード説明 / Usage
 
-ブログ参照[Sumario スペイン語の歌詞で使われる単語の使用頻度解析](https://sumariojp.com/2021/07/05/530/)
+ブログ参照 [Sumario スペイン語の歌詞で使われる単語の使用頻度解析](https://sumariojp.com/2021/07/05/530/)
 
 ## Requirement
 
