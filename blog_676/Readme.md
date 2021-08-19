@@ -17,8 +17,8 @@
 * E-mail sam_s@sumariojp.com
  
 ## License
-コード
+* コード
 [MIT license](https://en.wikipedia.org/wiki/MIT_License).
-サンプルデータ(https://youtu.be/ksmzVNMJhZ4)
-[Creative Commons license](https://creativecommons.org/)
+* サンプルデータ
+[Creative Commons license](https://creativecommons.org/).
  
