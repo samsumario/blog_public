@@ -2,7 +2,7 @@
 
 ## コード説明 / Usage
 
-ブログ参照 [Sumario pythonでyoutube動画からスペイン語の文字起こしをする](https://sumariojp.com/2021/09/06/726)
+ブログ参照 [Sumario スペイン語文章の読みやすさを判定する](https://sumariojp.com/2021/09/06/726)
 
 ## Requirement
 
