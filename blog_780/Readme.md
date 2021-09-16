@@ -2,7 +2,7 @@
 
 ## コード説明 / Usage
 
-ブログ参照 [Sumario 読書速度](https://sumariojp.com/2021/09/16/780/)
+ブログ参照 [Sumario 読書速度](https://sumariojp.com/2021/09/16/780/)  
 additional ディレクトリ内のスクリプトは [Sumario スペイン語文章の読みやすさを判定する](https://sumariojp.com/2021/09/06/726/)
 を参照してください。
 
