@@ -2,7 +2,7 @@
 
 ## コード説明 / Usage
 
-ブログ参照 [Sumario 読書速度](https://sumariojp.com/2021/09/17/780/)  
+ブログ参照 [Sumario 読書速度と単語チェッカー](https://sumariojp.com/2021/09/17/780/)  
 additional ディレクトリ内のスクリプトは [Sumario スペイン語文章の読みやすさを判定する](https://sumariojp.com/2021/09/06/726/)
 を参照してください。
 
@@ -12,7 +12,7 @@ additional ディレクトリ内のスクリプトは [Sumario スペイン語�
   - none
 
 - additional folder script
-  - pyverse　(analyze_tool無いのスクリプトで使用)
+  - pyverse　(analyze_tool内のスクリプトで使用)
 
 ## Author
  
