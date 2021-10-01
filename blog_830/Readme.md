@@ -3,7 +3,7 @@
 ## コード説明 / Usage
 
 [詳細はブログ参照](https://sumariojp.com/2021/10/01/830/)  
-- 形容詞リスト：lista_de_verbos_1800.txt  
+- 形容詞リスト：lista_de_adjetivo_1488.txt  
   - 動詞ではないものが混ざっているのを確認。スクリプトミスの可能性あり。  
 
 ## Author
