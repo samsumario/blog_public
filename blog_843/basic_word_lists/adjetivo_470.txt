@@ -1,0 +1,470 @@
+10 alto | alta | tall, high
+10 bajo | baja | short, low
+10 duro | dura | tough
+10 fuerte | - | strong
+10 grande | - | large, great, big
+10 pequeño | pequeña | little, small, young
+10 triste | - | sad, unhappy
+9 aburrido | aburrida | boring, bored
+9 agradable | - | nice and “friendly”
+9 amable | - | kind, nice, friendly
+9 bueno | buena | good
+9 caliente | - | hot, warm, spirited
+9 dulce | - | sweet
+9 débil | - | weak
+9 feliz | - | happy, fortunate
+9 fácil | - | easy
+9 malo | mala | bad
+9 nuevo | nueva | new
+9 rico | rica | pleasant tasting
+9 rápido | rápida | quick, fast
+9 viejo | vieja | old, aged
+8 amargo | amarga | bitter, sour, painful
+8 feo | fea | ugly, nasty, rude
+8 frío | fría | cold
+8 joven | - | young
+8 pobre | - | poor
+8 seco | seca | viciado
+8 simple | - | simple, mere, simple-minded
+8 tranquilo | tranquila | calm, tranquil, relaxed
+7 abierto | abierta | open, unlocked
+7 ancho | ancha | wide
+7 azul | - | blue
+7 blando | blanda | soft, limp, gentle
+7 bonito | bonita | nice, pretty
+7 difícil | - | difficult, hard
+7 divertido | divertida | funny, amusing
+7 estrecho | estrecha | narrow
+7 gordo | gorda | fat, thick
+7 inteligente | - | intelligent
+7 interesante | - | interesting
+7 largo | larga | long
+7 lento | lenta | slow
+7 limpio | limpia | clean
+7 oscuro | oscura | dark, obscure
+7 pesado | pesada | heavy, boring, tiresome
+7 rojo | roja | red
+7 sencillo | sencilla | simple (unassuming) 
+7 tonto | tonta | simple (stupid)
+7 tímido | tímida | timid, shy, half-hearted
+7 verde | - | green
+6 blanco | blanca | white
+6 complicado | complicada | complicated, complex
+6 contento | contenta | happy, content
+6 corto | corta | short, brief
+6 delgado | delgada | thin, slim, lean
+6 desagradable | - | distasteful
+6 famoso | famosa | famous, well-known
+6 helado | helada | iced, freezing, icy
+6 hermoso | hermosa | beautiful, lovely
+6 importante | - | important
+6 lleno | llena | full, ﬁlled
+6 negro | negra | black
+6 peligroso | peligrosa | dangerous
+6 popular | - | popular
+6 raro | rara | strange, rare, scarce
+6 seguro | segura | safe, sure, secure
+6 sucio | sucia | dirty, ﬁlthy, underhanded
+6 valiente | - | brave, courageous, bold
+6 útil | - | useful 
+5 afortunado | afortunada | fortunate
+5 alegre | - | happy, lively, cheerful
+5 amarillo | amarilla | yellow
+5 atractivo | atractiva | attractive
+5 barato | barata | inexpensive
+5 brillante | - | brilliant, shiny, sparkling
+5 capaz | - | capable, able
+5 caro | cara | expensive, difﬁcult, dear
+5 cerrado | cerrada | closed-minded 
+5 claro | clara | clear
+5 delicioso | deliciosa | delicious, delightful, charming
+5 diferente | - | different, separate
+5 educado | educada | educated
+5 enfermo | enferma | ill, sick
+5 generoso | generosa | generous
+5 grueso | gruesa | thick
+5 guapo | guapa | handsome, beautiful
+5 imposible | - | impossible
+5 inútil | - | useless
+5 ligero | ligera | light, light-weight, slight
+5 listo | lista | ready, quick-witted
+5 loco | loca | crazy, insane
+5 maduro | madura | mature, ready
+5 relajado | relajada | laid-back 
+5 serio | seria | serious
+5 simpático | simpática | nice, likeable, friendly
+5 suave | - | soft, gentle, mild
+5 vacío | vacía | empty, vacant
+5 verdadero | verdadera | true, real
+4 amigable | - | amicable
+4 antiguo | antigua | old, ancient, former
+4 ardiente | - | passionate, ardent
+4 asombroso | asombrosa | astounding 
+4 bello | bella | beautiful, ﬁne
+4 cansado | cansada | tired, tiresome
+4 complejo | compleja | complex, complicated
+4 común | - | common
+4 correcto | correcta | correct, suitable
+4 delicado | delicada | delicate 
+4 desafortunado | desafortunada | unfortunate 
+4 directo | directa | direct, straight
+4 elegante | - | elegant, smart, stylish
+4 enorme | - | enormous, vast
+4 estupendo | estupenda | marvelous, stupendous
+4 estúpido | estúpida | stupid, idiotic
+4 excelente | - | excellent
+4 extraño | extraña | strange, foreign
+4 extrovertido | extrovertida | extroverted 
+4 falso | falsa | false, untrue
+4 fresco | fresca | cool, healthy, fresh
+4 gracioso | graciosa | funny (but it can also be used ironically)
+4 grosero | grosera | crude, rude, crass
+4 horrible | - | horrible
+4 húmedo | húmeda | humid, damp
+4 increíble | - | incredible, unbelievable
+4 independiente | - | independent, self-sufﬁcient
+4 ingenuo | ingenua | naive, ingenuous
+4 luminoso | luminosa | bright, luminous
+4 mayor | - | larger, older, main
+4 moderno | moderna | modern
+4 muerto | muerta | dead
+4 perfecto | perfecta | perfect
+4 picante | - | piquant
+4 posible | - | possible
+4 profundo | profunda | deep, profound
+4 salado | salada | salty
+4 sano | sana | healthy, wholesome
+4 sincero | sincera | sincere
+4 solo | sola | lonely, alone
+4 tacaño | tacaña | stingy
+4 terrible | - | terrible
+4 tierno | tierna | tender, soft
+4 torpe | - | clumsy, awkward, slow
+4 trabajador | - | hardworking 
+4 vivo | viva | alive, bright
+4 áspero | áspera | rough, coarse, harsh
+3 activo | activa | active
+3 actual | - | current
+3 ambicioso | ambiciosa | ambitious, greedy
+3 amplio | amplia | wide, ample, broad
+3 apretado | apretada | tight, jammed
+3 argentino | argentina | argentinean
+3 artístico | artística | artistic
+3 asqueroso | asquerosa | loathsome, disgusting, vile
+3 baboso | - | moronic, idiotic
+3 bruto | bruta | brutal, coarse, clumsy
+3 cariñoso | cariñosa | affectionate
+3 celoso | celosa | jealous
+3 central | - | central
+3 cercano | cercana | close
+3 conocido | conocida | famous
+3 crudo | cruda | raw, crude, natural
+3 cualquier | - | any
+3 cuidadoso | cuidadosa | careful, cautious
+3 culto | culta | cultured, educated
+3 curioso | curiosa | curious, strange
+3 dinámico | dinámica | dynamic 
+3 distinto | distinta | distinct, different
+3 egoísta | - | selfish 
+3 encantador | - | delightful
+3 enfadado | enfadada | angry
+3 enojado | enojada | angry
+3 equivocado | equivocada | mistaken, wrong
+3 especial | - | special
+3 espontáneo | espontánea | spontaneous 
+3 exterior | - | exterior, outside
+3 familiar | - | familiar, of the family
+3 fantástico | fantástica | fantastic, unreal
+3 final | - | final
+3 fino | fina | thin
+3 flaco | flaca | skinny, wiry
+3 frágil | - | fragile, weak
+3 genial | - | brilliant, inspired
+3 honesto | honesta | honest 
+3 humilde | - | humble, modest
+3 igual | - | equal, same (as)
+3 indiferente | - | indifferent 
+3 intenso | intensa | intense, acute
+3 libre | - | free, vacant
+3 liso | lisa | smooth, flat, straight
+3 maravilloso | maravillosa | wonderful, marvelous
+3 mejor | - | best, better
+3 menor | - | younger, youngest
+3 modesto | modesta | modest, humble
+3 mojado | mojada | wet
+3 moreno | morena | tanned or “brown-haired”
+3 musical | - | musical
+3 nacional | - | national
+3 natural | - | natural
+3 necesario | necesaria | necessary
+3 negativo | negativa | negative, pessimistic
+3 orgulloso | orgullosa | proud, arrogant
+3 peor | - | worse, worst
+3 pleno | plena | complete, full
+3 poco | poca | cuidadoso careless
+3 preocupado | preocupada | worried, concerned
+3 principal | - | main, principal
+3 prudente | - | sensible, prudent
+3 próximo | próxima | next
+3 querido | querida | dear, beloved
+3 real | - | royal, real, authentic
+3 redondo | redonda | round
+3 refinado | refinada | refined 
+3 religioso | religiosa | religious
+3 robusto | robusta | strong, robust, sturdy
+3 rubio | rubia | blonde, fair
+3 ruidoso | ruidosa | noisy
+3 sabio | sabia | wise, learned
+3 sabroso | sabrosa | delicious, tasty
+3 salvaje | - | wild, savage, uncultivated
+3 segundo | segunda | -
+3 sensible | - | sensitive, sentient
+3 social | - | social
+3 solitario | solitaria | solitary, lonely
+3 soso | - | dull, boring 
+3 superficial | - | shallow
+3 temprano | temprana | early
+3 tibio | tibia | warm, tepid
+3 tradicional | - | traditional
+3 travieso | - | mischievous
+3 vago | vaga | vague
+3 ácido | - | acidic
+2 absoluto | absoluta | absolute
+2 abundante | - | abundant, plentiful
+2 adecuado | adecuada | adequate, suitable
+2 agotado | agotada | tired, used up, sold out
+2 agresivo | agresiva | aggressive 
+2 agrio | agria | sour
+2 agudo | aguda | sharp, acute
+2 alemán | - | german
+2 amistoso | amistosa | friendly 
+2 animado | animada | excited, lively
+2 ansioso | ansiosa | anxious, eager
+2 anterior | - | previous, preceding
+2 antipático | - | unfriendly
+2 anual | - | annual, yearly
+2 aquel | - | that
+2 armado | armada | armed
+2 arrugado | arrugada | wrinkled, crumpled
+2 asado | asada | roasted, barbecued
+2 asustado | asustada | scared, frightened
+2 aterciopelado | - | velvety
+2 atrevido | - | daring
+2 audaz | - | audacious, bold
+2 azulado | azulada | bluish
+2 brusco | brusca | brusque, abrupt, sudden
+2 básico | básica | basic, essential
+2 callado | callada | quiet, reserved
+2 caprichoso | caprichosa | capricious, whimsical
+2 casado | casada | married
+2 cauteloso | cautelosa | cautious
+2 celeste | - | sky-blue
+2 cerca | - | near
+2 chiflado | chiflada | crazy, unbalanced
+2 chileno | chilena | -
+2 ciego | ciega | blind
+2 cierto | cierta | certain, sure, true
+2 civil | - | civil
+2 clásico | clásica | classic
+2 cobarde | - | cowardly 
+2 colectivo | colectiva | collective, joint
+2 colombiano | colombiana | colombian
+2 colorido | colorida | colorful
+2 comercial | - | commercial, shopping
+2 completo | completa | complete
+2 comprensivo | comprensiva | sympathetic (understanding) 
+2 concreto | concreta | concrete, real
+2 conformista | - | conformist 
+2 congelado | congelada | frozen
+2 conservador | - | conservative 
+2 contemporáneo | contemporánea | contemporary
+2 contrario | contraria | contrary, opposite
+2 convencional | - | conventional 
+2 cotidiano | cotidiana | daily
+2 creativo | creativa | creative 
+2 cruel | - | cruel, harsh
+2 crítico | crítica | critical 
+2 cuadrado | cuadrada | brave
+2 cuarto | cuarta | -
+2 cubano | cubana | cuban
+2 culpable | - | guilty 
+2 cultural | - | cultural
+2 cálido | cálida | warm
+2 cómico | cómica | funny, humerous
+2 cómodo | cómoda | comfortable
+2 demasiado | demasiada | too much, too many
+2 democrático | democrática | democratic
+2 deportivo | deportiva | sports, sporty
+2 derecho | derecha | right, law
+2 desconocido | desconocida | unknown
+2 desnudo | desnuda | nude, naked
+2 despacio | despacia | slow, slowly 
+2 dicho | dicha | aforementioned, said
+2 digno | digna | de un rey
+2 diplomático | diplomática | diplomatic 
+2 dispuesto | dispuesta | willing, ready
+2 diverso | diversa | different, several, diverse
+2 divino | divina | divine
+2 doble | - | double
+2 doloroso | dolorosa | painful 
+2 económico | económica | economic
+2 educativo | educativa | educational
+2 efectivo | efectiva | effective
+2 electoral | - | electoral
+2 electrónico | electrónica | electronic
+2 elocuente | - | eloquent 
+2 eléctrico | eléctrica | electric
+2 embarazada | - | pregnant
+2 emocionado | emocionada | excited
+2 entusiasta | - | enthusiastic
+2 enérgico | enérgica | energetic, vigorous
+2 escaso | escasa | scarce, very little
+2 español | - | spanish
+2 estatal | - | state, government-owned
+2 estricto | estricta | strict, rigorous
+2 estudioso | estudiosa | studious
+2 europeo | europea | european
+2 evidente | - | evident, obvious
+2 exigente | - | demanding, urgent
+2 expresivo | expresiva | expressive 
+2 exquisito | exquisita | exquisite, superb
+2 extranjero | extranjera | foreign, alien
+2 extraordinario | extraordinaria | extraordinary, exceptional
+2 extremo | extrema | extreme
+2 exótico | exótica | exotic
+2 fascinante | - | fascinating 
+2 femenino | femenina | feminine, female
+2 feroz | - | ferocious, fierce
+2 financiero | financiera | financial
+2 fiscal | - | fiscal, treasury
+2 flexible | - | flexible
+2 flojo | floja | lazy
+2 francés | - | french
+2 frio | fria | cold
+2 fundamental | - | fundamental 
+2 físico | física | physical
+2 gaseoso | - | fizzy
+2 general | - | general
+2 gentil | - | gentle 
+2 global | - | global, overall
+2 grave | - | serious, solemn
+2 gris | - | gray
+2 grotesco | grotesca | grotesque, ridiculous
+2 habitual | - | usual, habitual, customary
+2 histórico | histórica | historical 
+2 humano | humana | human
+2 hábil | - | skillful, clever
+2 ignorante | - | ignorant
+2 impresionante | - | impressive, astonishing
+2 imprudente | - | imprudent 
+2 incómodo | incómoda | uncomfortable
+2 indirecto | indirecta | indirect
+2 individual | - | individual
+2 indígena | - | indigenous, native 
+2 ingenioso | ingeniosa | ingenious, clever
+2 inicial | - | initial
+2 inmediato | inmediata | immediate 
+2 interior | - | interior, inside
+2 internacional | - | international
+2 interno | interna | internal 
+2 izquierdo | izquierda | left
+2 judicial | - | judicial
+2 jugoso | - | juicy
+2 junto | junta | together
+2 justo | justa | fair, just
+2 laboral | - | labor, industry
+2 legal | - | legal 
+2 lejos | - | far
+2 liberal | - | liberal 
+2 literario | literaria | literary 
+2 local | - | local 
+2 marrón | - | brown
+2 masivo | masiva | massive
+2 medio | media | half, middle
+2 mexicano | mexicana | mexican
+2 militar | - | military
+2 mucho | mucha | a lot of
+2 muchos | - | many
+2 mudo | muda | mute, silent
+2 mundial | - | world-wide
+2 municipal | - | municipal, town
+2 máximo | máxima | maximum
+2 médico | médica | medical
+2 mínimo | mínima | minimum
+2 móvil | - | mobile
+2 nervioso | nerviosa | nervous
+2 normal | - | normal, usual, regular
+2 numeroso | numerosa | numerous
+2 ocupado | ocupada | busy
+2 ordenado | ordenada | tidy
+2 ordinario | ordinaria | vulgar, ordinary
+2 original | - | original
+2 paciente | - | patient
+2 particular | - | particular, peculiar
+2 pegajoso | - | sticky 
+2 permanente | - | permanent
+2 personal | - | personal
+2 petizo | petiza | short
+2 piadoso | piadosa | devout, pious, merciful
+2 pocos | - | few
+2 poderoso | poderosa | powerful
+2 político | política | political, tactful
+2 positivo | positiva | positive
+2 precioso | preciosa | beautiful, precious
+2 presente | - | present, current 
+2 previo | previa | previous
+2 primer | - | first
+2 primero | primera | first
+2 privado | privada | private
+2 productivo | productiva | productive, profitable
+2 profesional | - | professional
+2 propio | propia | own, proper, typical
+2 práctico | práctica | practical, skillful
+2 puntual | - | punctual 
+2 puro | pura | pure, clean
+2 público | pública | public
+2 quebrado | - | broken
+2 quemado | quemada | burned, burnt
+2 quinto | quinta | -
+2 realista | - | realistic 
+2 reciente | - | recent
+2 recto | recta | straight
+2 regional | - | regional
+2 reservado | reservada | reserved, booked
+2 responsable | - | responsible 
+2 riguroso | rigurosa | rigorous, severe
+2 romántico | romántica | romantic 
+2 rosado | rosada | pink, rosy
+2 roto | rota | broken, torn
+2 rudo | ruda | rude, crude, coarse
+2 rural | - | rural, country
+2 sanitario | sanitaria | health, sanitary, clean
+2 sedoso | sedosa | silky
+2 sentimental | - | sentimental
+2 sexto | sexta | -
+2 siguiente | - | following, next
+2 similar | - | similar
+2 sin | - | saborizantes artificiales
+2 soberbio | soberbia | arrogant
+2 solidario | solidaria | united, jointly shared
+2 sorprendente | - | surprising, astonishing
+2 sospechoso | sospechosa | suspicious
+2 suelto | suelta | loose
+2 superior | - | superior, upper
+2 séptimo | séptima | -
+2 sólido | sólida | solid, strong
+2 tarde | - | late
+2 tecnológico | tecnológica | technological
+2 tenso | tensa | tight, tense
+2 total | - | total, entire
+2 transparente | - | transparent
+2 técnico | técnica | technical
+2 unido | unida | joined
+2 universitario | universitaria | university
+2 urbano | urbana | urban, city, urbane
+2 usado | usada | worn out, old, used
+2 veloz | - | fast, quick
+2 vigente | - | in force, valid
+2 vuestro | vuestra | -
+2 vulgar | - | vulgar, common, banal
+2 último | última | last, ﬁnal

@@ -1,0 +1,380 @@
+14 ayudar | - | to help, to aid, to assist
+14 buscar | ○ | look for, look up, collect
+14 caerse | ○ | to fall, to fall down, to tumble
+14 contar | ○ | to count, to relate, to tell
+14 correr | - | to run, to race, to flow
+14 creer | ○ | to think, believe
+14 dar | ○ | to give, pass
+14 deber | - | to owe, must, should, ought to
+14 dejar | - | to let, to permit, to allow, to leave
+14 empezar | ○ | to begin, to start
+14 estar | ○ | to be (health, location, state)
+14 estudiar | - | to study, examine 
+14 hablar | - | to speak, to talk 
+14 hacerse | ○ | to do, perform
+14 irse | ○ | to go away, leave, depart
+14 jugar | ○ | to play (a game or sport)
+14 leer | ○ | to read
+14 llamarse | - | to call oneself, to be named
+14 llegar | ○ | to arrive, come, reach, to bring up, bring over, to gather together
+14 llevar | - | to carry (away), to take (away), to wear
+14 mirarse | - | to look at oneself, to look at each other
+14 necesitar | - | to need, require
+14 pagar | ○ | to pay, pay for
+14 pasar | - | to pass, pass by, go, to pass on, hand, to spend [time], to happen
+14 pedir | ○ | to ask for, to request
+14 poder | ○ | to be able to (can)
+14 ponerse | ○ | to put on [clothing], to put/place [oneself], to turn
+14 preguntarse | - | to ask, to inquire, to question
+14 quedarse | - | to stay, remain, be left, to be [indicating location]
+14 querer | ○ | want, like, love
+14 saber | ○ | to know (information)
+14 sacar | ○ | take out, get, bring out
+14 salir | ○ | to leave, come out, go out
+14 seguir | ○ | to follow, to pursue, to continue
+14 sentirse | ○ | to feel sorry, to regret, to feel
+14 tener | ○ | to have, to hold
+14 terminar | - | to end, to terminate, to finish
+14 tocar | ○ | to play (a musical instrument), to touch
+14 tomar | - | to take, to have (something to eat or to drink)
+14 trabajar | - | to work, to labor
+14 traer | ○ | to bring, to get, fetch, to carry
+14 venir | ○ | to come (back)
+14 ver | ○ | to see, view
+14 vivir | - | to live, experience
+14 volver | ○ | to return, come back, turn (over)
+13 abrir | ○ | to open, unlock
+13 acabar | - | finish, accept, agree to
+13 cambiar | - | to change
+13 comenzar | ○ | to begin, to commence, to start
+13 comprender | - | to understand, comprehend
+13 conocer | ○ | to know, to be acquainted with
+13 decir | ○ | to say, to tell
+13 encontrar | ○ | to meet, to encounter, to find
+13 escribir | - | to writte
+13 escuchar | - | to listen, to hear
+13 esperar | - | to expect, to hope, to wait (for)
+13 explicar | ○ | to explain
+13 ganar | - | to win, gain, earn, get, acquire
+13 gustar | - | to be pleasing (to), to like
+13 morir | ○ | to die, pass away
+13 perder | ○ | lose, get lost, miss
+13 permitir | - | to permit, to admit, to allow, to grant
+13 recibir | - | to receive, to welcome, greet
+13 recordar | ○ | to remember, to recall, to remind
+13 ser | ○ | to be (essential/permanent quality)
+13 servir | ○ | to serve, function 
+12 aceptar | - | to accept, approve, to agree to
+12 conseguir | ○ | to attain, to get, to obtain
+12 crear | - | to create, to make
+12 descubrir | - | to discover, find out
+12 entender | ○ | to understand, see
+12 entrar | - | to enter, to go (in), to come (in)
+12 levantarse | - | raise, lift, pick up, erect
+12 mantener | ○ | to maintain, to keep up, to support, to provide for
+12 nacer | ○ | to be born
+12 ofrecer | ○ | offer, volunteer
+12 parecerse | ○ | to resemble each other, to look alike
+12 pensar | ○ | to think, feel
+12 tratar | - | to try, to treat a subject
+11 dirigir | ○ | manage, direct
+11 haber | - | to have (as an auxiliary, helping verb to form the compound tenses)
+11 lavarse | - | to wash [oneself], to wash up
+11 limpiarse | - | to clean oneself
+11 oír | ○ | to hear, listen to
+11 pararse | - | to stop (someone or something)
+11 romper | - | to break, to shatter, to tear
+10 acostarse | ○ | to go to bed, to lie down
+10 aprender | - | to learn
+10 asistir | - | to attend, to assist, to be present
+10 bailar | - | to dance
+10 beber | - | to drink
+10 comer | - | to eat
+10 conducir | ○ | to lead, to conduct, to drive
+10 cumplir | - | to fulfill, to keep (a promise), to reach one's birthday (use with años)
+10 desear | - | to desire, to wish, to want
+10 devolver | ○ | to return (an object), to refund, to give back
+10 doler | ○ | to ache, to pain, to hurt, to cause grief, to cause regret
+10 dormirse | ○ | to go to sleep, fall asleep
+10 llorar | - | to cry, weep, to weep for/about, cry about, lament
+10 manejar | - | to manage, to handle, to drive, to operate (a vehicle)
+10 mostrar | ○ | to show, to point out
+10 ocurrir | ○ | to occur, to happen
+10 olvidarse | - | to forget
+10 producir | ○ | to produce, to cause
+10 realizar | ○ | to achieve, attain, accomplish, realize
+10 regresar | - | to return, to go back, to regress
+10 sentarse | ○ | to sit down, seat oneself
+10 traducir | ○ | to translate, interpret
+10 usar | - | to use, to employ, to wear
+10 utilizar | ○ | to use, utilize
+10 valer | ○ | be worth, valid, fair, cost
+10 vender | - | to sell
+10 vestirse | ○ | to dress oneself, to get dressed
+10 viajar | - | to travel, journey
+10 volar | ○ | to fly, soar
+9 alcanzar | ○ | to reach, catch, catch up to, catch up with
+9 amar | - | to love
+9 andar | ○ | to walk, go
+9 aparecer | ○ | to appear, to show up
+9 bajar | - | to lower, to let down, to come down, to go down, to descend
+9 caminar | - | to walk, to move along
+9 cantar | - | to sing
+9 casarse | - | to marry, join in marriage, join in wedlock
+9 cenar | - | to eat supper, have supper, to eat dinner, have dinner, to dine, to have for supper [or dinner]
+9 comprar | - | to buy, to purchase
+9 cortar | - | to cut, to cut off, to cut out
+9 cubrir | - | to cover, fill
+9 decidirse | - | to decide, make up one's mind
+9 despedirse | ○ | to say goodbye to, show out, dismiss
+9 despertarse | ○ | to wake up oneself
+9 destruir | - | to destroy/wreck/demolish
+9 divertirse | ○ | to have fun, have a good time, enjoy oneself
+9 enviar | ○ | to send, submit
+9 exigir | ○ | to demand, to urge, to require
+9 mandar | - | order, send out, be in charge
+9 moverse | ○ | to move, to persuade, to excite
+9 oler | ○ | to smell, to scent
+9 organizar | ○ | to organize, to arrange, to set up
+9 preferir | ○ | to prefer
+9 prepararse | - | to be prepared, to get ready, to prepare oneself
+9 presentar | - | to present, to display, to show, to introduce
+9 reconocer | ○ | to recognize, to acknowledge, to be grateful for
+9 repetir | ○ | to repeat, replicate
+9 sonar | ○ | to ring, to echo, to resound, to sound
+9 subir | - | to go up, to come up, to climb, to rise, to mount, to get on (a train, bus, etc.)
+9 suponer | ○ | to suppose, to assume
+8 almorzar | ○ | to lunch, eat lunch, have lunch
+8 apagar | ○ | to put out (flame, fire), to extinguish, to turn off (flame, fire, light)
+8 caber | ○ | to be contained, to fit into
+8 cerrar | ○ | close, shut (off)
+8 cocinar | - | to cook, to do the cooking
+8 construir | - | to build/manufacture
+8 convertir | ○ | to convert/change 
+8 corregir | ○ | to correct
+8 costar | ○ | to cost
+8 crecer | ○ | to grow [up]
+8 cruzar | ○ | to cross
+8 desayunarse | - | to eat breakfast, have breakfast
+8 descansar | - | to rest, take a rest, to support, lean [on]
+8 ducharse | - | to take a shower, to shower oneself
+8 echarse | - | to cast, to fling, to hurt, to pitch, to throw
+8 elegir | ○ | to elect, to select, to choose
+8 enseñarse | - | to teach, instruct, train, educate
+8 escoger | - | to choose, select, pick
+8 existir | - | to exist
+8 gastar | - | to spend, expend, to use up, consume, to wear away, wear down
+8 incluir | - | to include, incorporate
+8 intentar | - | to try, attempt
+8 llover | ○ | [impersonal verb] to rain
+8 medir | ○ | to measure, to weigh, to scan (verses)
+8 mentir | ○ | to lie, to tell a lie
+8 nadar | - | to swim
+8 practicar | ○ | to practise
+8 prestar | - | to lend, borrow
+8 probarse | ○ | prove, taste, try (on)
+8 proteger | - | protect, champion
+8 quitarse | - | to take off (clothing), to remove oneself, to withdraw
+8 recoger | - | to pick (up), to gather, to harvest
+8 recomendar | ○ | to recommend, to commend, to advise
+8 resolver | ○ | to resolve, to solve (a problem)
+8 secarse | ○ | to dry, dry up, dry off, wipe dry
+8 visitar | - | to visit
+7 aburrirse | - | to be bored, to grow tired, to grow weary
+7 acordarse | ○ | to decide, resolve, agree [on]
+7 arreglarse | - | to fix, to arrange, to adjust, to regulate, to settle, to repair
+7 coger | - | to seize, to take, to grasp, to grab, to catch
+7 contestar | - | to answer, to reply
+7 defender | ○ | to defend, stand up for
+7 describir | - | to describe, to delineate
+7 encantar | - | to delight, be delighting, charm, enchant
+7 encender | ○ | to incite, to inflame, to kindle, to light
+7 entregar | ○ | to deliver, to hand over, to give
+7 formar | - | to form, shape, fashion, make
+7 fumar | - | to smoke
+7 huir | - | to escape, to flee, to run away, to slip away
+7 invitar | - | to invite
+7 llenar | - | to fill, to fulfill
+7 obtener | ○ | win, receive, obtain
+7 partir | - | to leave, to depart, to divide, to split
+7 pintarse | - | to make up (one's face), to tint, to color (one's hair, lips, etc.)
+7 preocuparse | - | to be concerned, to worry, to be worried
+7 quejarse | - | to complain, to grumble
+7 responder | - | to answer, to reply, to respond
+7 saltar | - | to jump, leap, to jump over, leap over, to omit, skip, leave out
+7 saludar | - | to greet, salute, hail, welcome
+7 soler | ○ | to be accustomed to, to be in the habit of, to have the custom of
+7 soñar | ○ | to dream, imagine
+7 sufrir | - | to suffer, to undergo, experience, put up with
+7 sugerir | ○ | to hint, to insinuate, to suggest
+6 abrazar | ○ | to embrace, to hug, to clamp
+6 acercarse | ○ | to bring near[er], move [something] nearer
+6 ahorrar | - | to economize, to save
+6 aprobar | ○ | to approve, to pass a test
+6 averiguar | - | to find out, to inquire, to investigate
+6 callarse | - | to keep quiet , be quiet, shut up, be silent, remain silent
+6 celebrar | - | to celebrate, to praise, applaud
+6 compartir | - | to share, to divide [up]
+6 continuar | ○ | to continue
+6 cuidarse | - | to take care of, look after
+6 dibujar | - | to design, to draw, to sketch
+6 discutir | - | to discuss, dispute
+6 gritar | - | to shout, to scream, to shriek, to cry out
+6 herir | ○ | to injure, hurt, wound, to beat, strike
+6 importar | - | to matter, to be important
+6 lograr | - | to get, obtain, to achieve, attain
+6 matar | - | kill, slaughter, put down
+6 mejorarse | - | to improve, enhance
+6 pasearse | - | go for a walk, ride, drive
+6 peinarse | - | to comb one's hair, to do one's hair
+6 regalar | - | to give [as a gift], to present, to give away, to treat royally, pamper
+6 registrarse | - | to register, record, to search
+6 reparar | - | to mend, to repair, to notice, to observe
+6 robar | - | to rob, steal, burgle, break into
+6 rogar | ○ | to supplicate, to ask, to ask for, to request, to beg, to pray
+6 sorprender | - | to surprise, take by surprise, startle, amaze
+6 tirar | - | to pull, to draw, to pitch (a ball), to shoot (a gun), to throw, to fling
+5 acompañar | - | to accompany, to escort, to go with, to keep company
+5 adivinar | - | to guess, fortell, prophesy, to guess correctly
+5 admitir | - | to admit, accept, allow, recognize
+5 advertir | ○ | to advise, to give notice, to give warning, to take notice of, to warn
+5 afeitarse | - | to shave oneself
+5 agradecer | ○ | to thank, to be thankful for
+5 agregar | - | to add, to collect, to gather, to aggregate, to collate
+5 alegrarse | - | to be glad, happy, to become/get happy, to rejoice
+5 alquilar | - | to rent, to rent out, let
+5 anunciar | - | to announce, to foretell, to proclaim
+5 atacar | ○ | to attack
+5 atender | ○ | to attend to, pay attention to
+5 atraer | ○ | to attract, to allure, to charm
+5 avanzar | ○ | to advance, move forward
+5 añadir | - | to add, to increase
+5 bañarse | - | to bathe oneself, to take a bath
+5 borrar | - | to erase, rub out, to cross out, obliterate, wipe out
+5 burlarse | - | to mock, ridicule, make fun of [someone/something]
+5 calentarse | ○ | to heat (up), to warm (up)
+5 cansarse | - | to become tired, to become weary, to get tired
+5 cepillarse | - | to brush
+5 colgar | ○ | to hang, hang up, be hanging, be suspended
+5 colocar | ○ | to locate, place
+5 considerar | - | to consider 
+5 contribuir | - | to contribute
+5 convencer | - | convince, persuade
+5 dedicarse | ○ | to devote oneself, dedicate oneself, go in for, take up [carrer/interest in something]
+5 depender | - | to depend, rely
+5 desaparecer | ○ | to disappear
+5 distinguir | - | to distinguish, discern, make out, recognize, single out
+5 esconderse | - | to hide [oneself], be hidden
+5 esquiar | ○ | to ski
+5 expresar | - | to express, voice, state
+5 faltar | - | to be lacking, to be wanting, to lack, to miss, to need
+5 firmar | - | to sign
+5 funcionar | - | to function, to run (machine)
+5 guardar | - | to guard, watch over, protect, take care of, to keep, hold on to, to put away, store away
+5 guiar | ○ | to lead, to guide
+5 habitar | - | to inhabit, to dwell, to live, to reside
+5 helar | ○ | to freeze, to congeal, to chill
+5 hervir | ○ | to boil, entertain
+5 indicar | ○ | to indicate, to point out
+5 influir | - | to influence, affect
+5 insistir | - | to insist, to persist
+5 interesarse | - | to interest, be of interest [to]
+5 introducir | ○ | to introduce, insert
+5 lanzar | ○ | to throw, to hurl, to fling, to launch
+5 marcar | ○ | to mark, stamp, to show, indicate, to dial [e.g., a phone]
+5 merecer | ○ | to merit, to deserve
+5 meter | - | to put [in], place, insert
+5 montar | - | to mount, to go up, to climb, to get on, to wind (a watch)
+5 mudarse | - | to change one's clothes, to change one's place of residence, to move
+5 navegar | ○ | sail, surf (the internet)
+5 negarse | ○ | to deny, refuse
+5 nevar | ○ | to snow
+5 obedecer | ○ | obey, comply with
+5 participar | - | to participate, take part in, to share in, to inform, notify
+5 pelear | - | to fight, to brawl, scruffle
+5 quemarse | - | to burn [up], set on fire, scald, scorch, to be burning hot
+5 resultar | - | to turn out (to be), prove [to be], ensue
+5 reunirse | - | to assemble, to get together, to meet, to gather
+5 reírse | ○ | to laugh
+5 satisfacer | ○ | to satisfy, meet
+5 separar | - | to separate, to detach, to sort, to set apart
+5 suceder | - | to happen, to succeed, follow
+5 temer | - | to fear, to dread
+4 acostumbrarse | - | to be accustomed to, be in the habit of, to get
+4 admirar | - | to admire, respect, look up to
+4 aplaudir | - | to applaud, cheer, clap
+4 apoyar | - | to support, hold up, prop up, to back
+4 apreciar | - | to appreciate, value, esteem, estimate, notice
+4 aprovecharse | - | to take advantage, to avail oneself
+4 arrojar | - | to fling, to hurl, to throw
+4 asustarse | - | to be frightened, to be scared
+4 atravesar | ○ | to cross, cross over, go across, go over, pass through
+4 aumentar | - | to increase, add to, augment, to be on the increase, rise
+4 barrer | - | to sweep, sweep clean, sweep out, sweep away
+4 besar | - | to kiss
+4 brindar | - | to toast
+4 calcular | - | to calculate, compute, add up
+4 caracterizar | ○ | to characterize
+4 cargar | ○ | to load, load up, to charge
+4 charlar | - | to chat, to prattle
+4 cobrar | - | to charge [a price], to cash [a check], to collect, receive [an amount]
+4 consumir | - | to consume, eat, use upe
+4 contener | ○ | to contain, to hold
+4 conversar | - | to talk, converse, to tell, relate
+4 declarar | - | to declare, state, to bid [in cards]
+4 detenerse | ○ | to stop, to hold up, delay, to arrest, detain
+4 disfrutar | - | enjoy, have fun
+4 doblar | - | to double, to turn [a corner, to the right, etc.], to fold, crease
+4 dudar | - | to doubt
+4 durar | - | to last, go on, continue
+4 emplear | - | to employ, hire, to use
+4 equivocarse | ○ | to make a mistake
+4 establecer | ○ | to establish
+4 estimar | - | to estimate, to appraise, to esteem, respect
+4 evitar | - | to avoid, to prevent
+4 fijarse | - | to take notice, to pay attention, to settle
+4 freír | ○ | to fry, cook
+4 gozar | - | to enjoy
+4 habilitar | - | to fit out, authorise
+4 heredar | - | to inherit
+4 imaginarse | - | to imagine
+4 impedir | - | to hinder, to impede, to prevent
+4 imprimir | - | to imprint, to impress, to print, to fix in the mind
+4 informarse | - | to inform oneself, to find out
+4 inventar | - | to invent, create
+4 juzgar | - | to judge
+4 lastimarse | - | to hurt oneself, to feel sorry for, to complain, to regret
+4 luchar | - | to fight, to strive, to struggle, to wrestle
+4 marcharse | - | to walk, to march, to function (machine), to run (machine)
+4 mencionar | - | to mention, name
+4 morder | - | to bite, chew
+4 notar | - | to note, notice, observe
+4 obligar | ○ | to oblige
+4 observar | - | to observe, notice
+4 ocupar | - | to occupy
+4 oponerse | ○ | to pit [a against b], set up [a in opposition to b], play off [a against b]
+4 ordenar | - | to order, to command, to put in order, to arrange
+4 pegar | ○ | to beat, to hit, to slap, to stick, to glue, to paste
+4 perdonar | - | to pardon, to forgive, to excuse
+4 pertenecer | ○ | to pertain, to appertain, to belong
+4 pesar | - | to weigh, to weigh down, weigh heavily,
+4 poseer | - | to possess, to own
+4 prohibir | - | to prohibit, to forbid
+4 prometer | - | to promise, vow
+4 pronunciar | - | to pronounce, utter
+4 proponer | ○ | to propose, suggest
+4 publicar | ○ | to publish, post
+4 reducir | ○ | to reduce, cut
+4 regar | ○ | to water, irrigate, wash, sprinkle, spray
+4 respetar | - | to respect, honor
+4 respirar | - | to breathe, breathe in, inhale
+4 rezar | ○ | to pray, recite
+4 salvar | - | to save, rescue, to except, exclude
+4 señalar | - | to point out, point to, indicate, to signal, to mark
+4 sonreír | ○ | to smile
+4 soportar | - | to support, hold up, bear, to put up with, tolerate
+4 sumergir | - | to submerge, to plunge, to immerse, to sink
+4 surgir | ○ | to arise, emerge, spring up, come out, appear
+4 toser | - | to cough
+4 unir | - | to connect, to unite, to join, to bind, to attach
+4 vencer | - | to conquer, defeat, beat, overcome, win, to expire, cease to apply

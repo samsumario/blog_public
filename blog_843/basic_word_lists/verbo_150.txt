@@ -1,0 +1,149 @@
+3 abandonar | - | to abandon, leave behind, desert, to quit, give up
+3 abordar | - | to board, get on [plane, bus, etc.], to approach, accost [a person]
+3 acelerar | - | to accelerate, to speed, to hasten, to hurry
+3 aclarar | - | to explain, to clarify, to make clear, to rinse, to clear
+3 aconsejar | - | to advise, to counsel
+3 actuar | ○ | to act, perform, actuate, operate
+3 acudir | - | to attend, to be present frequently, to respond (to a call), to come to the rescue
+3 acusar | - | to accuse, blame
+3 adelantarse | - | to go forward, to go ahead, to move ahead, to take the lead
+3 adoptar | - | to adopt
+3 adorar | - | to adore, to worship
+3 adquirir | - | to acquire, to get, to obtain
+3 afirmar | - | to make firm, steady, strengthen, to affirm, state, assert
+3 agarrar | - | to grasp, to obtain, to seize, to catch, to clutch, to come upon
+3 aguantar | - | to put up with, endure, bear, stand
+3 alejarse | - | to take away
+3 aliviar | - | to alleviate, ease, lessen, lighthen, relieve
+3 alzar | - | to heave, to lift, to pick up, to raise (prices)
+3 amanecer | ○ | to dawn
+3 amenazar | ○ | to threaten, menace
+3 analizar | - | to analize
+3 aplicar | ○ | to apply, implement
+3 apostar | ○ | to bet, wager
+3 arrancar | - | to root up (out), to pull up (out), to tear off (away), to snatch
+3 articular | - | to articulate, to pronounce distinctly
+3 asegurar | - | to assure, to affirm, to assert, to insure
+3 aspirar | - | to breath in, inhale, to suck in, to aspirate, to aspire
+3 avisar | - | to warn, inform, notify
+3 batir | - | to beat, hammer, pound [on]
+3 bendecir | ○ | to bless, foretell, forecast
+3 cancelar | - | to cancel, to wipe out, write off [debt]
+3 causar | - | to cause, to create, make
+3 cocer | - | cook, boil
+3 combatir | - | to combat, fight, oppose, to attack
+3 cometer | - | to commit
+3 competir | ○ | to compete
+3 componer | ○ | to compose, make up, put together
+3 comunicarse | ○ | to communicate [e.g., with someone], be in touch, correspond, to be transmitted
+3 confesar | ○ | to confess
+3 confirmar | - | to confirm, corroborate, endorse
+3 conservar | - | to preserve, conserve, to keep, retain
+3 constituir | - | to constitute, to make up
+3 convenir | ○ | to agree, to suit, be suited to, to be good for
+3 coser | - | to sew, sew up, to stitch, stitch up
+3 criarse | ○ | to breed, to raise, to bring up (rear)
+3 curar | - | to cure, to treat, dress [a wound]
+3 demostrar | ○ | to demonstrate, to prove
+3 depositar | - | to deposit, to place, to put away, store
+3 deshacer | ○ | to undo, unmake, ruin, spoil, take apart
+3 diseñar | - | to design
+3 disminuir | - | to diminish, decrease
+3 distribuir | - | to distribute, hand out, send out, give out
+3 divorciarse | - | to get divorced [from somebody]
+3 ejercer | - | to exercise, wield [power, influence, etc.], to practice [a profession], to manage, conduct [a businsess]
+3 eliminar | - | to eliminate, remove, get rid of
+3 enamorarse | - | to inspire love in, win the love of
+3 encerrarse | - | to enclose, to lock up, to confine
+3 enfermarse | - | to get sick, to fall sick, to become sick, to fall ill, to become ill
+3 enojarse | - | to become angry, to get angry, to get cross
+3 envolver | - | to wrap, engage
+3 explotar | - | to exploit, to explode
+3 exponer | ○ | to expose, exhibit
+3 exportar | - | to export
+3 extender | ○ | to extend, spread
+3 fabricar | ○ | to fabricate, to manufacture
+3 felicitar | - | to congratulate, to felicitate
+3 fingir | ○ | to fake, feign, pretend
+3 girar | - | to turn 
+3 gobernar | ○ | to govern, to rule
+3 grabar | - | to record 
+3 graduarse | ○ | adjust, graduate
+3 habituar | - | to get used to
+3 halagar | - | to flatter
+3 hallarse | - | to find, to discover, to locate, to find out
+3 hartar | - | to to get bored of, to gorge
+3 hinchar | - | inflate, blow up, swell
+3 hospedar | - | to provide with accommodation
+3 hostigar | - | to bother, pester
+3 ignorar | - | to be ignorant of, not to know
+3 inaugurar | - | to inaugurate, open 
+3 inducir | ○ | to induce, to influence, to persuade
+3 iniciar | - | to initiate, begin, start
+3 instalar | - | to install, to set up, erect
+3 interpretar | - | to interpret, to translate
+3 interrumpir | - | to interrupt, disrupt 
+3 invertir | ○ | to invest
+3 investigar | ○ | to investigate
+3 juntarse | - | to join, come together, gather together, meet
+3 jurar | - | to swear, to take an oath
+3 ladrar | - | to bark
+3 maquillarse | - | to put on make-up [on oneself]
+3 matricularse | - | to register, enroll, matriculate [oneself]
+3 mezclar | - | to mix, mix up, mix together, blend, to combine, merge, shuffle
+3 molestar | - | to bother, annoy, inconovenience, put out, upset
+3 negociar | - | to negotiate, deal
+3 ocultarse | - | to hide oneself
+3 odiar | - | to hate
+3 oir | - | to hear
+3 operar | - | to operate
+3 percibir | - | to perceive, see
+3 perseguir | ○ | to pursue, chase, hunt down
+3 pescar | ○ | to fish, hook
+3 pisar | - | to tread (on), to step on, to trample
+3 plantar | - | to plant
+3 platicar | ○ | to chat, to talk over, to discuss
+3 predecir | ○ | to predict, to forecast, to foretell
+3 prender | - | to switch on (a light)
+3 preservar | - | to preserve, conserve
+3 protestar | - | to protest, complain
+3 provocar | ○ | to cause, make
+3 quebrarse | ○ | to break, smash, to fail, go bankrupt
+3 rechazar | ○ | to reject, to push back, repel
+3 recorrer | - | to travel, tour
+3 recuperar | - | to recover, regain
+3 referir | - | to refer, to relate
+3 regir | ○ | to rule, govern, be in charge of, be at the head of
+3 reir | - | to laugh
+3 renovar | ○ | to renew, to renovate
+3 renunciar | - | to renounce, surrender, resign
+3 repartir | - | to distribute, to deal cards
+3 repasar | - | to review, go over again, to do again
+3 requerir | ○ | to require, need, to request, ask, to send for, call for
+3 reservar | - | to reserve, to keep, keep in reserve
+3 retirar | - | to retire, to withdraw
+3 revelar | - | to reveal, disclose, to develop [film]
+3 sacudir | - | to shake, to jerk, to jolt
+3 significar | ○ | to signify, mean
+3 sobrevivir | - | to survive, outlive, outlast
+3 soltar | - | to release, drop
+3 someter | - | to subdue, to subject, to surrender, to submit
+3 sospechar | - | to suspect
+3 sostener | - | to sustain, to support, to maintain, to uphold
+3 subrayar | - | to underline, to underscore, to emphasize
+3 superar | - | to overcome, exceed
+3 suspender | - | to suspend, stop
+3 suspirar | - | to sigh
+3 sustituir | - | to substitute, replace
+3 tardar | - | to delay, take a long time, be long, be slow [in doing something]
+3 tender | - | to extend, to offer, to stretch, to spread out, to hang out (washing)
+3 teñir | ○ | to dye, tint, tinge, color, stain
+3 tropezar | ○ | to trip, stumble, slip up
+3 vaciar | - | to empty, drain
+3 variar | ○ | to vary, change
+3 velar | - | to stay awake, to guard, to watch over
+3 verificar | ○ | to verify, check, inspect
+3 vigilar | - | to watch (over), to keep guard, to look out for
+3 votar | - | to vote, to vow
+3 yacer | ○ | to lie down, to be lying down, to lie in a grave
+2 afectar | - | to affect, influence
