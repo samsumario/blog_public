@@ -1,8 +1,8 @@
-# スペイン語初級者が無料でネットの文章を楽に多読する方法案
+# スペイン語初級者が楽に多読出来る無料記事を探す方法案
 
 ## コード説明 / Usage
 
-ブログ参照 [Sumario](https://sumariojp.com/2021/10/12/843/)
+ブログ参照 [Sumario](https://sumariojp.com/2021/10/13/843/)
 
 ## Requirement
 
