@@ -6,9 +6,9 @@
 
 ## Requirement
 
-deep_trans_demo.py
-* deep_translator
-wiki_demo.py
+deep_trans_demo.py  
+* deep_translator  
+wiki_demo.py  
 * wikipedia
 
 ## Author
