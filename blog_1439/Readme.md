@@ -1,11 +1,10 @@
-# スペイン語のおすすめオンライン辞書
+# 用途別スペイン語のおすすめオンライン辞書
 
 ## コード説明 / Usage
 
 ブログ参照 [Sumario](https://sumariojp.com/2021/11/24/1439/)
 
 ## Requirement  
-
 deep_trans_demo.py  
 * deep_translator  
 wiki_demo.py  
