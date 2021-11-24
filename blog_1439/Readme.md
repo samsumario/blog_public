@@ -2,9 +2,9 @@
 
 ## コード説明 / Usage
 
-ブログ参照 [Sumario](https://sumariojp.com/?p=1439)
+ブログ参照 [Sumario](https://sumariojp.com/2021/11/24/1439/)
 
-## Requirement
+## Requirement  
 
 deep_trans_demo.py  
 * deep_translator  
