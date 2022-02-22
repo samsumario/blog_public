@@ -2,8 +2,8 @@
 
 ## コード説明 / Usage
 
-scipyによるスペクトログラム実行コード
-ブログ参照 [Sumario](https://sumariojp.com/?p=2915)
+scipyによるスペクトログラム実行コード  
+詳細はブログ参照 [Sumario](https://sumariojp.com/?p=2915)
 
 ## Requirement
 
